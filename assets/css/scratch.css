@@ -1,0 +1,76 @@
+h1{
+    color: rgb(175, 99, 175);
+    text-align: center;
+    font-size: 600%;
+    font-family: 'Parisienne', cursive;
+}
+
+h2,h3 {
+    color:rgb(175, 99, 175);
+    text-align: left;
+    font-family: 'Alatsi', sans-serif;
+    font-size: 200%;
+    
+}
+
+img{
+    position:relative;
+    top:-60px;
+    left:20px
+}
+.sent {
+    color: rgb(245, 153, 77);
+    text-align: center;
+    font-size: 120%;
+    border-style: dotted;
+    border-color: lightcoral;
+    }
+
+.history{
+    color: black;
+    text-align: left;
+    font-size: 120%;
+
+}
+
+.professional{
+    text-align: center;
+    color: black;
+    font-size:120%
+    
+}
+
+a {
+    color:rgb(244, 138, 244);
+  }
+
+a:hover {
+    color: lightblue
+}
+
+
+iframe{
+    position:relative;
+    bottom: 10px;
+    left:5px
+}
+
+h3{
+    position:relative;
+    top: 0px;
+    left: 35px
+  
+}
+
+ol{
+    color: black;
+    font-size: 120%;
+    position:relative;
+    top: 0px;
+    left: 50px;
+    inline-size: 300;
+   text-align:left
+   
+}
+
+
